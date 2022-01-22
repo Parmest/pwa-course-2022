@@ -1,3 +1,3 @@
 function helloworld() {
-  alert("Hello World!");
+  alert("สวัสดียามเช้าครับ อาจารย์ทานข้าวเช้ารึยังครับ");
 }
